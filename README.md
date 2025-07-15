@@ -1,5 +1,9 @@
 # Mindat Scraper API
 
+<p align="center">
+  <img src="asset/mindat-scraper-api-icon.png" alt="Mindat Scraper API Logo" width="200"/>
+</p>
+
 MindatScraperAPI is an open-source project that performs automated web scraping on Mindat.org to extract information about minerals and rocks. The data is processed and made available through a clean RESTful API, allowing researchers, educators, and developers to easily integrate Mindat's mineralogical data into their own applications.
 
 ## Features
